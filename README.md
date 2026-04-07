@@ -1,16 +1,14 @@
-## Hi there 👋
+# Olá, eu sou o Luiz! 👋
 
-<!--
-**lcflsilva/lcflsilva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Full-Stack | Estudante de Sistemas de Informação na USP**
 
-Here are some ideas to get you started:
+Técnico pela Etec Lauro Gomes e graduando na USP, unindo uma base técnica sólida ao embasamento teórico da melhor universidade do país. Com experiência prática desde projetos de TCC até aplicações reais, busco desafios que impulsionem meu crescimento técnico e possibilitem uma carreira internacional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Minhas Especialidades
+
+- 📱 **Mobile:** Desenvolvimento híbrido (React Native) e nativo (Java).
+- 🌐 **Web:** Front-end moderno e responsivo (React, Tailwind CSS).
+- ⚙️ **Back-End:** Estruturação de APIs seguras e eficientes (Java, Kotlin, C#).
+
+### 🌍 Idiomas
+- 🇺🇸 **Inglês:** Avançado
